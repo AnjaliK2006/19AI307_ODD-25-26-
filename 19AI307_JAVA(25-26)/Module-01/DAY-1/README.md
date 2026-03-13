@@ -4,14 +4,18 @@
 Write a program to print "Hey, my first java program!" using output statement.
 
 ## AIM:
-
+To write a simple Java program to display the message “Hey, my first java program!” using an output statement.
 
 ## ALGORITHM :
-1.	
-2.
-3.
-4.
-5.
+1.Start the program.
+
+2.Create a class named Main.
+
+3.Define the main() method which is the entry point of the program.
+
+4.Use the output statement System.out.println() to print the message.
+
+5.Compile and run the program to display the output.
 
 
 
@@ -42,5 +46,7 @@ public class Main{
 
 
 
+
 ## RESULT:
+The program was compiled and executed successfully and the output is displayed.
 
