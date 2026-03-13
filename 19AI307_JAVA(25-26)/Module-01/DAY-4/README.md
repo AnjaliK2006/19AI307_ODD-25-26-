@@ -25,8 +25,8 @@ To write a Java program to find the average of elements in an array.
  ```
 /*
 Program to implement a Array concept using Java
-Developed by: V.AMIRTHA VARSHINI
-RegisterNumber:  212224040021
+Developed by: K.ANJALI
+RegisterNumber:  212224040024
 */
 ```
 
@@ -57,3 +57,4 @@ public class Main{
 ## RESULT:
 
 Thus, the Java program to find the average of array elements was executed successfully and the average value was obtained for the given input.
+
