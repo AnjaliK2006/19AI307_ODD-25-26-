@@ -44,9 +44,10 @@ public class Main{
 
 ## OUTPUT:
 
-
+<img width="590" height="135" alt="image" src="https://github.com/user-attachments/assets/b446aaa6-9658-4541-af90-171c6ddbe68d" />
 
 
 ## RESULT:
 The program was compiled and executed successfully and the output is displayed.
+
 
