@@ -24,8 +24,8 @@ To write a Java program to create a Car class with attributes brand, model, and 
  ```
 /*
 Program to implement a Class and Objects using Java
-Developed by: V.AMIRTHA VARSHINI
-RegisterNumber: 212224040021 
+Developed by: K.ANJALI
+RegisterNumber: 212224040024
 */
 ```
 
