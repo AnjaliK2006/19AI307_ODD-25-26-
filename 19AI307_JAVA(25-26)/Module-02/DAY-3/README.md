@@ -25,8 +25,8 @@ To write a Java program to create a class Smartphone with private instance varia
  ```
 /*
 Program to implement a Access Specifiers using Java
-Developed by: V.AMIRTHA VARSHINI 
-RegisterNumber:  212224040021
+Developed by: K.ANJALI
+RegisterNumber:  212224040024
 */
 ```
 
