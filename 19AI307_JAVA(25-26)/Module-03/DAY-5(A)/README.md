@@ -57,7 +57,7 @@ public class outer{
 
 ## OUTPUT:
 
-
+![alt text](<WhatsApp Image 2026-03-14 at 2.06.04 PM.jpeg>)
 
 ## RESULT:
 The Java program was executed successfully.
