@@ -69,7 +69,7 @@ public class ArmstrongNumber {
 
 ## OUTPUT:
 
-
+![alt text](image.png)
 
 ## RESULT:
 
